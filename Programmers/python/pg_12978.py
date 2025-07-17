@@ -42,3 +42,4 @@ def solution(N, road, k):
     return sum([1 for val in distance if val <= k])
 
 print(solution(6, [[1,2,1],[1,3,2],[2,3,2],[3,4,3],[3,5,2],[3,5,3],[5,6,1]], 4))
+
