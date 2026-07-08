@@ -11,3 +11,6 @@ boj_*
 # 2) boj_*.cpp, boj_*.py 는 무시 예외 처리
 !boj_*.cpp
 !boj_*.py
+
+# CLAUDE.md (로컬 전용, 커밋 안 함)
+CLAUDE.md
